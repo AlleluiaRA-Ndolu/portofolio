@@ -3,8 +3,7 @@ Alleluia is an IT student with a strong interest in data science and artificial 
 
 ## Contact
 - Email: ndolualleluia@gmail.com
-- Linkedin: Alleluia Rehuellah Alefika Ndolu
-  [Alleluia Rehuellah Alefika Ndolu](https://www.linkedin.com/in/alleluiandolu/)
+- Linkedin: [Alleluia Rehuellah Alefika Ndolu](https://www.linkedin.com/in/alleluiandolu/)
 
 ## Education
 #### BINUS University | 2022 - Present
