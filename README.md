@@ -1,4 +1,10 @@
-# portofolio
+## About Me
+Alleluia is an IT student with a strong interest in data science and artificial intelligence (AI). Experienced in analyzing complex data and applying the latest analytical techniques and AI algorithms, I have a deep understanding of programming, machine learning, and statistics. With strong collaboration skills, I have experience working in teams to achieve common goals.
+
+## Contact
+- Email: ndolualleluia@gmail.com
+- Linkedin: Alleluia Rehuellah Alefika Ndolu
+  [Alleluia Rehuellah Alefika Ndolu](https://www.linkedin.com/in/alleluiandolu/)
 
 ## Education
 #### BINUS University | 2022 - Present
