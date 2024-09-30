@@ -5,6 +5,7 @@
 School of Computer Science - Major in Data Science 
 (_Jakarta, Indonesia_)	
 **Current GPA**: 3.55/4.00
+
 **Relevant Coursework**: Deep Learning, Machine Learning, Model Deployment, Database Technology.
 
 
