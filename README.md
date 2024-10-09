@@ -22,11 +22,9 @@ School of Computer Science - Major in Data Science
 ## Projects
 ### Batik Image Classification using PyTorch | 2024
 _Deep Learning Project_
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+[See Repositores!](https://github.com/AlleluiaRA-Ndolu/Batik-Image-Classification)
 
 Developed a batik motif detection and prediction system using image classification technology leveraging the PyTorch framework. Successfully created a model capable of recognizing batik motifs with high accuracy, showcasing proficiency in **Python programming** and deep learning concepts.
-
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 ### Bank Customer Churn Prediction Model with Machine Learning | 2024
 _Model Deployment Project_
