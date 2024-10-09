@@ -24,13 +24,19 @@ School of Computer Science - Major in Data Science
 _Deep Learning Project_
 [ See Repository!](https://github.com/AlleluiaRA-Ndolu/Batik-Image-Classification)
 
-Developed a batik motif detection and prediction system using image classification technology leveraging the PyTorch framework. Successfully created a model capable of recognizing batik motifs with high accuracy, showcasing proficiency in **Python programming** and deep learning concepts.
+Developed a batik motif detection and prediction system using image classification technology leveraging the **PyTorch framework**. Successfully created a model capable of recognizing batik motifs with high accuracy, showcasing proficiency in **Python programming** and deep learning concepts.
 
 ### Bank Customer Churn Prediction Model with Machine Learning | 2024
 _Model Deployment Project_
 [ See repository!](https://github.com/AlleluiaRA-Ndolu/Bank-Customer-Churn-Prediction)
 
-Develop a bank customer churn prediction model using **Python**. Utilizing Random Forest and XGBoost algorithms, I analyzed historical data to identify factors influencing customer decisions to switch. The project involved data processing with Pandas, model implementation with Scikit-learn, and integration using FastAPI or Streamlit app for efficient deployment in production environments.
+Developed a bank customer churn prediction model using **Python**. Utilizing Random Forest and XGBoost algorithms, I analyzed historical data to identify factors influencing customer decisions to switch. The project involved data processing with Pandas, model implementation with Scikit-learn, and integration using FastAPI or Streamlit app for efficient deployment in production environments.
+
+### Bank Loan Granting Prediction using Deep Learning | 2024
+_Deep Learning Mid-Exam Project_
+[ See repository!](https://github.com/AlleluiaRA-Ndolu/Bank-Loan-Granting-Prediction-using-Deep-Learning)
+
+Developed a deep learning model for predicting bank loan granting decisions using **TensorFlow Keras**. The model was built from scratch with a baseline architecture consisting of an input layer, two hidden layers with ReLU activation, and an output layer. I optimized the model to improve accuracy by addressing challenges such as class imbalance through class weighting and feature scaling using Min-Max Scaler. Additionally, hyperparameter tuning was applied to further enhance performance.
 
 
 
