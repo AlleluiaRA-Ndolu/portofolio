@@ -38,5 +38,10 @@ _Deep Learning Mid-Exam Project_
 
 Developed a deep learning model for predicting bank loan granting decisions using **TensorFlow Keras**. The model was built from scratch with a baseline architecture consisting of an input layer, two hidden layers with ReLU activation, and an output layer. I optimized the model to improve accuracy by addressing challenges such as class imbalance through class weighting and feature scaling using Min-Max Scaler. Additionally, hyperparameter tuning was applied to further enhance performance.
 
+### Image Classification using Custom VGG16 Architecture | 2024
+_Deep Learning Project_
+[See repository!](https://github.com/AlleluiaRA-Ndolu/Custom-VGG16-Deep-Learning-Model-for-Image-Classification-Using-PyTorch)
+
+Developed an image classification model using a custom-built **VGG16 architecture** implemented from scratch in **PyTorch**. The model includes batch normalization and dropout layers to enhance performance and reduce overfitting. I optimized the model by tuning hyperparameters, such as the learning rate, to achieve improved accuracy on the CIFAR-10 dataset while effectively addressing challenges related to image data.
 
 
