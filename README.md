@@ -22,19 +22,15 @@ School of Computer Science - Major in Data Science
 ## Projects
 ### Batik Image Classification using PyTorch | 2024
 _Deep Learning Project_
-[See Repositores!](https://github.com/AlleluiaRA-Ndolu/Batik-Image-Classification)
+[ See Repository!](https://github.com/AlleluiaRA-Ndolu/Batik-Image-Classification)
 
 Developed a batik motif detection and prediction system using image classification technology leveraging the PyTorch framework. Successfully created a model capable of recognizing batik motifs with high accuracy, showcasing proficiency in **Python programming** and deep learning concepts.
 
 ### Bank Customer Churn Prediction Model with Machine Learning | 2024
 _Model Deployment Project_
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+[ See repository!](https://github.com/AlleluiaRA-Ndolu/Bank-Customer-Churn-Prediction)
 
 Develop a bank customer churn prediction model using **Python**. Utilizing Random Forest and XGBoost algorithms, I analyzed historical data to identify factors influencing customer decisions to switch. The project involved data processing with Pandas, model implementation with Scikit-learn, and integration using FastAPI or Streamlit app for efficient deployment in production environments.
 
-![Bike Study](/assets/img/bike_study.jpeg)
 
-### Auction Price Prediction with Machine Learning | 2023
-_Machine Learning Project_
-Developed a machine learning project aimed at predicting upcoming auction prices using **Python** programming language. Successfully built an accurate predictive regression model utilizing appropriate machine learning algorithms and techniques, demonstrating proficiency in data analysis.
 
