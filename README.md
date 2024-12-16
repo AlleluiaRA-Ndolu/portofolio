@@ -14,7 +14,7 @@ School of Computer Science - Major in Data Science
 
 
 ## Work Experience
-**Part-time Teacher - Coding and Programming for Children @ PT Timedoor Academy (_December 2023 - Present_)**
+**Part-time Teacher - Coding and Programming for Children @ PT Timedoor Academy (_December 2023 - September 2024_)**
 - Developed and delivered engaging lesson materials on the basics of coding and programming, tailored to students' levels of understanding.
 - Guided students through simple coding projects, enhancing their logical thinking, problem-solving skills, and technical proficiency.
 - Fostered a positive and inclusive learning environment that encouraged creativity, collaboration, and a strong interest in technology.
