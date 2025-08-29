@@ -9,11 +9,16 @@ Alleluia is an IT student with a strong interest in data science and artificial 
 #### BINUS University | 2022 - Present
 School of Computer Science - Major in Data Science 
 (_Jakarta, Indonesia_)	
-- **Current GPA**: 3.55/4.00
+- **Current GPA**: 3.63/4.00
 - **Relevant Coursework**: Deep Learning, Machine Learning, Model Deployment, Database Technology.
 
 
-## Work Experience
+## Professional Experience
+**Demand Data Analyst Intern @ PT Arnott's Indonesia (_February 2025 – August 2025_)**-
+- Built and optimized machine learning regression models (Gradient Boosting, SARIMA) to forecast product sales and predict customer demand, supporting inventory and supply chain decisions.
+- Conducted text mining and sentiment analysis on social media comments to classify customer opinions (positive, neutral, negative), providing insights for marketing strategy.
+- Designed and deployed interactive dashboards in Streamlit to visualize forecasting results and model performance, enabling business users to make data-driven decisions.
+
 **Part-time Teacher - Coding and Programming for Children @ PT Timedoor Academy (_December 2023 - September 2024_)**
 - Developed and delivered engaging lesson materials on the basics of coding and programming, tailored to students' levels of understanding.
 - Guided students through simple coding projects, enhancing their logical thinking, problem-solving skills, and technical proficiency.
