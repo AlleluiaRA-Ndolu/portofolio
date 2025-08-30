@@ -9,7 +9,7 @@ Alleluia is an IT student with a strong interest in data science and artificial 
 #### BINUS University | 2022 - Present
 School of Computer Science - Major in Data Science 
 (_Jakarta, Indonesia_)	
-- **Current GPA**: 3.63/4.00
+- **Current GPA**: 3.63/4.00 (as Aug 2025)
 - **Relevant Coursework**: Deep Learning, Machine Learning, Model Deployment, Database Technology.
 
 
