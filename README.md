@@ -39,7 +39,7 @@ _Research Project_
 
 ### Multiclass Text Classification Using LLMs | 2025 
 _Text Mining Project_
-[ See Repository!](https://github.com/AlleluiaRA-Ndolu/Batik-Image-Classification)
+[ See Repository!](https://github.com/AlleluiaRA-Ndolu/Multiclass-Text-Classification-Using-IndoBERT)
 
 - Description: Classified scraped Indonesian sports news into 5 categories using IndoBERT (Hugging Face Transformers). Compared 1-stage vs 2-stage classification approaches.
 - Tech Stack: Python, Hugging Face Transformers, Pandas, Scikit-learn
