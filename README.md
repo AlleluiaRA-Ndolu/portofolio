@@ -1,5 +1,9 @@
 ## About Me
-Alleluia is an IT student with a strong interest in data science and artificial intelligence (AI). Experienced in analyzing complex data and applying the latest analytical techniques and AI algorithms, I have a deep understanding of programming, machine learning, and statistics. With strong collaboration skills, I have experience working in teams to achieve common goals.
+Hi, I’m Alleluia 👋. I’m a Computer Science student at BINUS University, majoring in Data Science. My main interests are Natural Language Processing (NLP), Machine Learning, and Artificial Intelligence.
+
+I enjoy building models that can solve real-world problems, from detecting spam reviews to forecasting product demand. I also like sharing knowledge through teaching and collaborating with others.
+
+Currently, I’m pursuing the Fast Track program to continue my Master’s degree in Computer Science while exploring NLP applications in industry and research.
 
 ## Contact
 - Email: ndolualleluia@gmail.com
@@ -7,46 +11,75 @@ Alleluia is an IT student with a strong interest in data science and artificial 
 
 ## Education
 #### BINUS University | 2022 - Present
-School of Computer Science - Major in Data Science 
-(_Jakarta, Indonesia_)	
-- **Current GPA**: 3.63/4.00 (as Aug 2025)
-- **Relevant Coursework**: Deep Learning, Machine Learning, Model Deployment, Database Technology.
+S.Kom. Computer Science (Data Science Major), Expected 2026.
+M.Kom. Fast Track Master of Computer Science, Expected 2027.
 
 
 ## Professional Experience
 **Demand Data Analyst Intern @ PT Arnott's Indonesia (_February 2025 – August 2025_)**-
-- Built and optimized machine learning regression models (Gradient Boosting, SARIMA) to forecast product sales and predict customer demand, supporting inventory and supply chain decisions.
-- Conducted text mining and sentiment analysis on social media comments to classify customer opinions (positive, neutral, negative), providing insights for marketing strategy.
-- Designed and deployed interactive dashboards in Streamlit to visualize forecasting results and model performance, enabling business users to make data-driven decisions.
+Built forecasting & NLP models (IndoBERT sentiment analysis), deployed dashboards with Streamlit.
 
 **Part-time Teacher - Coding and Programming for Children @ PT Timedoor Academy (_December 2023 - September 2024_)**
-- Developed and delivered engaging lesson materials on the basics of coding and programming, tailored to students' levels of understanding.
-- Guided students through simple coding projects, enhancing their logical thinking, problem-solving skills, and technical proficiency.
-- Fostered a positive and inclusive learning environment that encouraged creativity, collaboration, and a strong interest in technology.
+Taught programming basics to students, designed simple coding projects, fostered interest in technology.
 
 ## Projects
+### 🔹 NLP Projects
+
+### Spam Detection on Tiktok App Reviews on Google Play Store (IEEE IAICT Publication) | 2025 
+_Research Project_
+[ See Repository!](https://github.com/AlleluiaRA-Ndolu/Batik-Image-Classification)
+
+- Description: Developed a two-stage spam detection framework for TikTok reviews (spam vs non-spam; sensitive vs insensitive).
+- Tech Stack: Python, Scikit-learn, TensorFlow/Keras, TF-IDF, Word2Vec
+- Results: Achieved 96% accuracy using MLP with TF-IDF.
+- Publication: Co-authored IEEE IAICT 2025 paper.
+
+### Multiclass Text Classification Using LLMs | 2025 
+_Text Mining Project_
+[ See Repository!](https://github.com/AlleluiaRA-Ndolu/Batik-Image-Classification)
+
+- Description: Classified scraped Indonesian sports news into 5 categories using IndoBERT (Hugging Face Transformers). Compared 1-stage vs 2-stage classification approaches.
+- Tech Stack: Python, Hugging Face Transformers, Pandas, Scikit-learn
+- Results: Improved performance with hierarchical 2-stage classification.
+
+### Public Opinion Analysis on Digital Transformation (Clustering & Topic Modeling | 2025 
+_Text Mining Project_
+[ See Repository!](https://github.com/AlleluiaRA-Ndolu/Batik-Image-Classification)
+
+- Description: Scraped YouTube comments to analyze public sentiment on digital transformation in Indonesia. Applied clustering (K-Means, silhouette evaluation) and topic modeling (LDA).
+- Tech Stack: Python, Scikit-learn, Gensim, TF-IDF, Word2Vec
+- Results: Identified distinct audience segments and extracted topics related to opportunities and challenges of digital transformation.
+
 ### Batik Image Classification using PyTorch | 2024
 _Deep Learning Project_
 [ See Repository!](https://github.com/AlleluiaRA-Ndolu/Batik-Image-Classification)
 
-Developed a batik motif detection and prediction system using image classification technology leveraging the **PyTorch framework**. Successfully created a model capable of recognizing batik motifs with high accuracy, showcasing proficiency in **Python programming** and deep learning concepts.
-
+- Description: Built an image classification model to detect and predict batik motifs using PyTorch.
+- Tech Stack: Python, PyTorch, NumPy, Matplotlib
+- Results: Achieved high accuracy in motif recognition, demonstrating strong understanding of deep learning concepts.
+  
 ### Bank Customer Churn Prediction Model with Machine Learning | 2024
 _Model Deployment Project_
 [ See repository!](https://github.com/AlleluiaRA-Ndolu/Bank-Customer-Churn-Prediction)
 
-Developed a bank customer churn prediction model using **Python**. Utilizing Random Forest and XGBoost algorithms, I analyzed historical data to identify factors influencing customer decisions to switch. The project involved data processing with Pandas, model implementation with Scikit-learn, and integration using FastAPI or Streamlit app for efficient deployment in production environments.
+- Description: Developed a machine learning model to predict customer churn using Random Forest and XGBoost.
+- Tech Stack: Python, Pandas, Scikit-learn, XGBoost, FastAPI, Streamlit
+- Results: Identified key churn drivers and deployed the model into an interactive app for business use.
 
 ### Bank Loan Granting Prediction using Deep Learning | 2024
 _Deep Learning Mid-Exam Project_
 [ See repository!](https://github.com/AlleluiaRA-Ndolu/Bank-Loan-Granting-Prediction-using-Deep-Learning)
 
-Developed a deep learning model for predicting bank loan granting decisions using **TensorFlow Keras**. The model was built from scratch with a baseline architecture consisting of an input layer, two hidden layers with ReLU activation, and an output layer. I optimized the model to improve accuracy by addressing challenges such as class imbalance through class weighting and feature scaling using Min-Max Scaler. Additionally, hyperparameter tuning was applied to further enhance performance.
+- Description: Built a deep learning model to predict loan granting decisions with TensorFlow Keras.
+- Tech Stack: Python, TensorFlow Keras, Scikit-learn
+- Results: Improved model accuracy by applying class weighting, feature scaling, and hyperparameter tuning.
 
 ### Image Classification using Custom VGG16 Architecture | 2024
 _Deep Learning Project_
 [See repository!](https://github.com/AlleluiaRA-Ndolu/Custom-VGG16-Deep-Learning-Model-for-Image-Classification-Using-PyTorch)
 
-Developed an image classification model using a custom-built **VGG16 architecture** implemented from scratch in **PyTorch**. The model includes batch normalization and dropout layers to enhance performance and reduce overfitting. I optimized the model by tuning hyperparameters, such as the learning rate, to achieve improved accuracy on the CIFAR-10 dataset while effectively addressing challenges related to image data.
+- Description: Implemented a custom VGG16 architecture from scratch with batch normalization and dropout.
+- Tech Stack: Python, PyTorch, NumPy, Matplotlib
+- Results: Enhanced accuracy on CIFAR-10 dataset through optimized hyperparameters and regularization techniques.
 
 
