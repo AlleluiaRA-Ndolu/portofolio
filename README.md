@@ -47,7 +47,7 @@ _Text Mining Project_
 
 ### Public Opinion Analysis on Digital Transformation (Clustering & Topic Modeling | 2025 
 _Text Mining Project_
-[ See Repository!](https://github.com/AlleluiaRA-Ndolu/Batik-Image-Classification)
+[ See Repository!](https://github.com/AlleluiaRA-Ndolu/Public-Opinion-Analysis-on-Digital-Transformation-Clustering-Topic-Modeling-)
 
 - Description: Scraped YouTube comments to analyze public sentiment on digital transformation in Indonesia. Applied clustering (K-Means, silhouette evaluation) and topic modeling (LDA).
 - Tech Stack: Python, Scikit-learn, Gensim, TF-IDF, Word2Vec
