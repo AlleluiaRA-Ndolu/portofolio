@@ -28,9 +28,10 @@ Taught programming basics to students, designed simple coding projects, fostered
 ## Projects
 ### 🔹 NLP Projects
 
-### Spam Detection on Tiktok App Reviews on Google Play Store (IEEE IAICT Publication) | 2025 
+### Spam Detection for Tiktok App Reviews on Google Play Store (IEEE IAICT Publication) | 2025 
 _Research Project_
-[ See Repository!](https://github.com/AlleluiaRA-Ndolu/Batik-Image-Classification)
+[ See Repository!](https://github.com/AlleluiaRA-Ndolu/Spam-Detection-for-Tiktok-App-Review-on-Google-Play-Store)
+[Read on IEEE Xplore](https://ieeexplore.ieee.org/document/11101496)  
 
 - Description: Developed a two-stage spam detection framework for TikTok reviews (spam vs non-spam; sensitive vs insensitive).
 - Tech Stack: Python, Scikit-learn, TensorFlow/Keras, TF-IDF, Word2Vec
