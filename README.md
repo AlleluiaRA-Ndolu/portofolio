@@ -1,9 +1,9 @@
 ## About Me
-Hi, I’m Alleluia 👋. I’m a Computer Science student at BINUS University, majoring in Data Science. My main interests are Natural Language Processing (NLP), Machine Learning, and Artificial Intelligence.
+Hi, I’m Alleluia 👋. I’m a Computer Science student at BINUS University, majoring in Data Science. My main interests are Machine Learning, Artificial Intelligence, and Data Science applications.
 
-I enjoy building models that can solve real-world problems, from detecting spam reviews to forecasting product demand. I also like sharing knowledge through teaching and collaborating with others.
+I enjoy building models that can solve real-world problems, from detecting spam reviews to forecasting customer demand and predicting user behavior. I also like sharing knowledge through teaching and collaborating with others.
 
-Currently, I’m pursuing the Fast Track program to continue my Master’s degree in Computer Science while exploring NLP applications in industry and research.
+Currently, I’m pursuing the Fast Track program to continue my Master’s degree in Computer Science, while developing projects and research in applied machine learning.
 
 ## Contact
 - Email: ndolualleluia@gmail.com
@@ -12,14 +12,17 @@ Currently, I’m pursuing the Fast Track program to continue my Master’s degre
 ## Education
 #### BINUS University | 2022 - Present
 S.Kom. Computer Science (Data Science Major), Expected 2026.
+
 M.Kom. Fast Track Master of Computer Science, Expected 2027.
 
 
 ## Professional Experience
-**Demand Data Analyst Intern @ PT Arnott's Indonesia (_February 2025 – August 2025_)**-
+**Demand Data Analyst Intern @ PT Arnott's Indonesia (_February 2025 – August 2025_)**
+
 Built forecasting & NLP models (IndoBERT sentiment analysis), deployed dashboards with Streamlit.
 
 **Part-time Teacher - Coding and Programming for Children @ PT Timedoor Academy (_December 2023 - September 2024_)**
+
 Taught programming basics to students, designed simple coding projects, fostered interest in technology.
 
 ## Projects
@@ -50,6 +53,7 @@ _Text Mining Project_
 - Tech Stack: Python, Scikit-learn, Gensim, TF-IDF, Word2Vec
 - Results: Identified distinct audience segments and extracted topics related to opportunities and challenges of digital transformation.
 
+### 🔹 Other ML/DL Projects
 ### Batik Image Classification using PyTorch | 2024
 _Deep Learning Project_
 [ See Repository!](https://github.com/AlleluiaRA-Ndolu/Batik-Image-Classification)
