@@ -17,12 +17,10 @@ M.Kom. Fast Track Master of Computer Science, Expected 2027.
 
 
 ## Professional Experience
-**Demand Data Analyst Intern @ PT Arnott's Indonesia (_February 2025 – August 2025_)**
-
+#### **Demand Data Analyst Intern @ PT Arnott's Indonesia (_February 2025 – August 2025_)**
 Built forecasting & NLP models (IndoBERT sentiment analysis), deployed dashboards with Streamlit.
 
-**Part-time Teacher - Coding and Programming for Children @ PT Timedoor Academy (_December 2023 - September 2024_)**
-
+#### **Part-time Teacher - Coding and Programming for Children @ PT Timedoor Academy (_December 2023 - September 2024_)**
 Taught programming basics to students, designed simple coding projects, fostered interest in technology.
 
 ## Projects
